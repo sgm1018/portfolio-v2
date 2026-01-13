@@ -18,19 +18,18 @@ A modern, responsive portfolio website showcasing Full Stack DevSecOps expertise
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section](https://via.placeholder.com/1200x675?text=Hero+Section+with+Video+Animation)
+<img width="1851" height="835" alt="image" src="https://github.com/user-attachments/assets/27763581-7e90-4cf6-bc7e-6467c36c6f14" />
+
 *Modern hero section featuring animated background with background video integration*
 
 ### Tech Stack Section
-![Tech Stack](https://via.placeholder.com/1200x675?text=Technology+Stack+Section)
+<img width="1846" height="835" alt="image" src="https://github.com/user-attachments/assets/77b23577-7f9e-4527-8092-cf19e6e448c9" />
+
 *Comprehensive display of languages, frameworks, and tools*
 
-### Portfolio Projects
-![Portfolio](https://via.placeholder.com/1200x675?text=Portfolio+Projects)
-*Showcase of featured projects with descriptions and technologies*
-
 ### Mobile Responsive
-![Mobile View](https://via.placeholder.com/400x800?text=Mobile+Responsive+Design)
+<img width="490" height="727" alt="image" src="https://github.com/user-attachments/assets/eba65146-8ba7-40bf-9726-83b0fb901053" />
+
 *Fully optimized experience for all device sizes*
 
 ---
