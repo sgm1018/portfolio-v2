@@ -1,0 +1,38 @@
+# Robots.txt for Sergio González Portfolio
+# https://sergiogonzalez.dev
+
+User-agent: *
+Allow: /
+
+# Allow all search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Disallow admin and private paths
+Disallow: /api/
+Disallow: /*.json$
+Disallow: /node_modules/
+
+# Sitemap location
+Sitemap: https://sergiogonzalez.dev/sitemap.xml
+
+# Crawl delay (optional - be nice to servers)
+Crawl-delay: 1
+
+# Host directive
+Host: https://sergiogonzalez.dev
