@@ -9,7 +9,7 @@
 
 A modern, responsive portfolio website showcasing Full Stack DevSecOps expertise, built with React and powered by Google's AI tools.
 
-[View Live Demo](#)
+[View Live Demo](https://portfolio-frontend-pvo8ez-1e0336-62-84-185-253.traefik.me)
 
 </div>
 
